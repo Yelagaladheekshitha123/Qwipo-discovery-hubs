@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Qwipo dicovery hub project
 
 ## Project info
 
